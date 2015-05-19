@@ -37,4 +37,4 @@ if(age <= 18) and ( age >= 6):
 #price when age is < 5 
 if(age <= 5):
     netPriceChild = childTicket * numberOfTickets
-    print '%d children\'s tickets will be $%d.00' % (childTicket, netPriceChil
+    print '%d children\'s tickets will be $%d.00' % (childTicket, netPriceChild)
